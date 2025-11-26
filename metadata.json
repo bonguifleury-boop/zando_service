@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of GestPro Enterprise",
+  "description": "A comprehensive enterprise management system featuring specialized dashboards for Administration, Point of Sale (Caisse), and Inventory Management (Gestock), powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
